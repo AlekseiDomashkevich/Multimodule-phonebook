@@ -1,0 +1,5 @@
+rootProject.name = 'Multimodule-phonebook'
+include 'library'
+include 'webService'
+include 'desktopApp'
+
