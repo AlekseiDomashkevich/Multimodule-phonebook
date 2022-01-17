@@ -17,6 +17,7 @@ public class DesktopApp {
             var contents = new Box(BoxLayout.PAGE_AXIS);
             contents.add(new JScrollPane(table));
             frame.setContentPane(contents);
+
             frame.setVisible(true);
         });
 
